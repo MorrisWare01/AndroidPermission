@@ -54,7 +54,4 @@ class PermissionFragment : Fragment() {
       }
     } ?: throw IllegalStateException("This fragment must be attached to an activity.")
 
-
-
-
 }
